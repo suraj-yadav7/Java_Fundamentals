@@ -24,6 +24,7 @@ public class _04_arrays {
          */
 
         // 2D array dynamic input from user
+        /*
         System.out.println("Enter row size: ");
         int rsize = scan.nextInt();
         System.out.println("Enter column size: ");
@@ -40,5 +41,17 @@ public class _04_arrays {
                 System.out.println(j+ " val "+twodArr[i][j]);
             }
         }
+        */
+
+        // Jagged Array
+        // In it rows are fixed but columns are not fixed
+        int jaggedArray[][] = new int[2][];
+        jaggedArray[0] = new int[]{2,4,6};
+        jaggedArray[1] = new int[]{1,3};
+        System.out.println("length : "+ jaggedArray.length);
+        System.out.println("Jagged Array Val : "+jaggedArray[0][2]);
+        System.out.println("Jagged Array Val : "+jaggedArray[1][1]);
+
+        
     }
 }

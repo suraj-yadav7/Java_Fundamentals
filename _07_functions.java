@@ -1,4 +1,4 @@
-public class _05_functions {
+public class _07_functions {
     
     static void greetUser(){
         System.out.println("Hi developer, Keep learning and growing");
@@ -12,7 +12,7 @@ public class _05_functions {
     public static void main(String args[]){
         greetUser();
         // Can be called like below one also
-        _05_functions.greetUser();
+        _07_functions.greetUser();
         int result =sum(10,20);
         System.out.println("Addition of two number "+result);
     }
