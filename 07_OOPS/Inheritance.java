@@ -47,9 +47,11 @@ class EngineeringStudent extends Student{
   public void attendLab(){
     System.out.println("Daily Lab for Engineering Student.");
   }
-};
+}
 
-/* Multilevel Inheritance */
+
+
+ /* Multilevel Inheritance */
 // A --> B extend A --> C extend B
 
 /** Hierarchy Inheritance */
