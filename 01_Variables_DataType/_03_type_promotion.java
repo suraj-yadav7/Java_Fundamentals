@@ -3,7 +3,7 @@
  * Type promotion in Java is the automatic conversion of a smaller primitive data type into a larger data type.
  * It happens implicitly during arithmetic operations or method overloading to prevent data overflow and ensure type compatibility
  */
-class promotion{
+public class _03_type_promotion {
   public static void main(String[]  args){
     byte b = 32;
     char c = 'a';

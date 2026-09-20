@@ -2,7 +2,7 @@
 /** In Java, a variable is a data container that stores data values during the execution of a program.
   Every variable is assigned a data type which determines its memory size and the kind of value it can hold. */
 
-class variable{
+public class _01_variables {
   public static void main(String[] args){
     //Integer Values
     byte  a   = 127;

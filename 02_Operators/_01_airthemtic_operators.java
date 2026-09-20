@@ -3,7 +3,7 @@
  * Arithmetic operators in Java are standard mathematical symbols used to perform calculations like
  * addition, subtraction, multiplication, division, and remainder handling on numeric primitive data types.
  */
-class arithmetic{
+public class _01_airthemtic_operators {
   public static void main(String[] args){
     int i=20;
     int j=10;
@@ -39,4 +39,4 @@ class arithmetic{
     int p = ++x; // increment x by 1 and then assign to p
     System.out.println("p: "+p+" x: "+x);
   }
-}
+};

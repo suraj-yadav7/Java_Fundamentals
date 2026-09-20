@@ -4,7 +4,7 @@
  * They evaluate expressions by converting decimal numbers into binary representations, executing the specified logic bit-by-bit,
  * and returning a final result.
  */
-class bitwise{
+public class _03_bitwise_operators {
   public static void main(String[] args) {
     // Bitwise operations
     int a = 2; // 10 --> 00000000 00000000 00000000 00000010
@@ -27,4 +27,4 @@ class bitwise{
     System.out.println(g);
     System.out.println(h);
   }
-}
+};

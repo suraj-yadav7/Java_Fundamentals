@@ -4,7 +4,7 @@
  * Java handles this through two primary mechanisms: Implicit Type Conversion (Widening) which occurs automatically,
  * and Explicit Type Casting (Narrowing) which requires manual programmer intervention
  */
-class conversion{
+public  class _02_type_conversion {
   public static void main(String[] args){
     /** Implicit Conversion */
     //byte to int
