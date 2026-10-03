@@ -3,7 +3,7 @@
 /** Conditional statements in Java control the execution flow of code based on specific boolean criteria.
  * Java uses if, else, and else if blocks to evaluate test conditions that must strictly return a boolean value (true or false). */
 
-class ifStatements{
+public class _01_if_statements {
   public static void main(String[] args){
     int age = 20;
     if(age>18){

@@ -3,7 +3,7 @@
  * It provides a cleaner, more readable, and often faster alternative to a long if-else-if ladder when testing a single variable against
  * multiple discrete values. It is more optimized than if-statements as it uses the jump tables for fast lookup of defined cases in switch.*/
 
-class switchStatement{
+public  class _02_switch_statement {
   public static void main(String[] args){
     int marks = 80;
     String message ="";

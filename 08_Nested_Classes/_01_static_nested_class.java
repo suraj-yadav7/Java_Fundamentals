@@ -1,7 +1,7 @@
 /** STATIC NESTED CLASS */
 /**
  * A static nested class in Java is a class defined inside another class and declared with the static keyword.
-  Unlike a regular inner class, a static nested class is not tied to an instance of the outer class.
+  Unlike a regular inner class, a static nested class is not tied to an instance of the outer class object.
   It behaves exactly like a normal, top-level class, except it's visually, logically scoped inside a class for better organization.
  */
 
