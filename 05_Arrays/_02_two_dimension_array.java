@@ -2,7 +2,7 @@
 /** In Java, a two-dimensional (2D) array is essentially an array of arrays that stores data in a grid or tabular format
  * consisting of rows and columns. It is highly useful for managing matrices, maps, grids, or coordinate systems. */
 
-class twoDimensionArray{
+public class _02_two_dimension_array {
   public static void main(String[] args) {
     int[][] marks = new int[3][]; //row[3], col[] is optional
     marks[0] = new int[2];

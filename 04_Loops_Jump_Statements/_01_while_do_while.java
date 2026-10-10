@@ -3,7 +3,7 @@
  * The core difference lies in when the condition is evaluated: a while loop checks the condition before executing the body,
  * whereas a do-while loop checks it after the body runs. */
 
-class whileLoops{
+public class _01_while_do_while {
   public static void main(String[] args){
     // While loop
     int i=1;

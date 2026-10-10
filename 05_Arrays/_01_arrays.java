@@ -1,7 +1,7 @@
 /** ARRAYS */
 /** In Java, an array is a container object that holds a fixed number of elements of a single data type stored in contiguous memory locations.
  * It allows you to store multiple values under a single variable name instead of declaring separate variables for each value */
-class arrays{
+public class _01_arrays {
   public static void main(String[] args){
     //Direct assignment of value
     int[] price ;

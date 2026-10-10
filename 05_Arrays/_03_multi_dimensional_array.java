@@ -2,7 +2,7 @@
 /** A three-dimensional (3D) or multidimension array in Java is essentially an array of arrays of n-arrays.
  * It is best visualized as a cube or a book of grids,where you have multiple blocks(layers) and each block contains rows and columns. */
 
-class multiDimensionArray{
+public class _03_multi_dimensional_array {
   public static void main(String[] args) {
     int[][][] marks = new int[2][][]; //row[2], col[] is optional
 

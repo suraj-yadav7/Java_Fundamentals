@@ -1,7 +1,7 @@
 /** FOR LOOP */
 /** A for loop is a control flow statement used to execute a block of code repeatedly when the exact number of iterations is known beforehand.
  * It consolidates initialization, condition testing, and variable updates into a single line, making your code clean and highly readable. */
-class forLoop{
+public class _02_for_loop {
   public static void main(String[] args){
     //Standard loop
     int n = 5;
